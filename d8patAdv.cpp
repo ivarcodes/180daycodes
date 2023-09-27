@@ -44,6 +44,8 @@ int main(){
     //     }
     //     cout<<endl;
     // }
+
+    // homework (27/10/2023)
      for(int i=1;i<=5;i++){
          for(int j=1;j<=n-i;j++){
              cout<<"   ";
